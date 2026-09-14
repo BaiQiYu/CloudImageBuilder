@@ -70,9 +70,6 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-taskplan luci-i18n-taskplan-zh-cn"
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-wol-zh-cn"
 # 自定义命令
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-commands-zh-cn"
-
-#网络加速
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-turboacc"
 #===========================以下imm仓库内的软件==============================↓
 
 # ================= 一、网络接入 / 校园网认证 / DNS =================
