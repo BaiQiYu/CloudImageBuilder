@@ -15,5 +15,3 @@
 ### 若后续想设置其他ip或者旁路 请在web页面自行设置即可 <br> 总之 这个逻辑就是默认让它有网 和 普通电脑、NAS 无异
 ### 一定要阅读清楚 再刷机 推荐使用U盘做测试（0风险） 不建议一开始就写入EMMC
 ## 各位尽量不要直接使用项目中的release 要自己fork项目后自行构建  <br> 本项目中的release仅用于作者测试 且会定期删除
-##### 若release中下载吃力 可在国内加速站下载 
-[![Github](https://img.shields.io/badge/Release文件可在国内加速站下载-FC7C0D?logo=github&logoColor=fff&labelColor=000&style=for-the-badge)](https://wkdaily.cpolar.top/archives/1) 
