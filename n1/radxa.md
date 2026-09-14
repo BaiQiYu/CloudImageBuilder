@@ -10,8 +10,6 @@
 #### 默认底包位置：https://github.com/wukongdaily/AutoBuildImmortalWrt/releases/tag/rootfs
 
 ## 各位尽量不要直接使用项目中的release 要自己fork项目后自行构建  <br> 本项目中的release仅用于作者测试 且会定期删除
-##### 若release中下载吃力 可在国内加速站下载 
-[![Github](https://img.shields.io/badge/Release文件可在国内加速站下载-FC7C0D?logo=github&logoColor=fff&labelColor=000&style=for-the-badge)](https://wkdaily.cpolar.top/archives/1) 
 >  支持的机型列表：
 - e20c - e24c - e25 - e52c - e54c - rock5b - rock5c
 - r66s - r68s - ht2 - h28k - h66k - h68k- h69k - h69k-max - h88k - h88k-v3
