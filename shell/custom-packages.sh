@@ -15,8 +15,8 @@
 # 高级卸载 by YT Vedio Talk
 # CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-uninstall"
 # 极光主题 by github eamonxg
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-theme-aurora luci-app-aurora-config luci-i18n-aurora-config-zh-cn"
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-theme-bootstrap"
+# CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-theme-aurora luci-app-aurora-config luci-i18n-aurora-config-zh-cn"
+# CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-theme-bootstrap"
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-theme-argon -luci-app-argon-config -luci-i18n-argon-config-zh-cn"
 # 去广告adghome
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-adguardhome"
