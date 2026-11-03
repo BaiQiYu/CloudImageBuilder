@@ -32,9 +32,9 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES bandix luci-app-bandix luci-i18n-bandix-zh-cn"
 # 新增 Lucky大吉 by gdy666 & sirpdboy 
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-lucky lucky luci-i18n-lucky-zh-cn"
 # daed 升级到1.28.0
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-daed-zh-cn"
+#CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-daed-zh-cn"
 # openwrt-daede
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-daede vmlinux-btf dae daed"
+#CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-daede vmlinux-btf dae daed"
 # 任务设置 by sirpdboy
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-taskplan luci-i18n-taskplan-zh-cn"
 # MosDNS
@@ -137,7 +137,7 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-travelmate-zh-cn"
 # SNMP 网络管理
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-snmpd-zh-cn"
 # UPnP 端口自动映射
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-upnp-zh-cn"
+#CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-upnp-zh-cn"
 
 # ================= 四、多拨 / 限速 / 流量统计 =================
 # 智能限速
@@ -302,7 +302,7 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-mwan3-zh-cn"
 # 抓包（tcpdump 图形界面）
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-cshark-zh-cn"
 # 首页仪表盘
-#CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-dashboard-zh-cn"
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-dashboard-zh-cn"
 # 邮件通知
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-email-zh-cn"
 # 官方示例插件（开发模板）
