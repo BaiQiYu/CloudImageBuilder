@@ -151,7 +151,7 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-taskplan luci-i18n-taskplan-zh-cn"
 #  经典 DNS 广告拦截（旧版）
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-adblock-fast-zh-cn"
 #  广告拦截快速新版（推荐替代 adblock）
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-arpbind-zh-cn"
+# CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-arpbind-zh-cn"
 #  IP-MAC 绑定，防 ARP 欺骗/掉线
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-banip-zh-cn"
 #  批量 IP 黑名单/地理封锁（威胁情报、国家/ASN 屏蔽）
